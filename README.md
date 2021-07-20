@@ -1,11 +1,13 @@
 # JAVA-ASSIGNMENT
 Java Assignment for printing lower case english alphabet e
 
-## TODO
-1. Read me file
-Lab assignment
-Pattern		Name of codder
-discription about Logic used
+Program is well documented
 
-2. Program (pattern in doc comments)
-3. Screenshots of outputs.
+## PATTERN NAME
+English lowercase alphabet e
+
+## NAME OF CODERS
+Vanshika
+Vineet Kumar
+
+## SCREENSHOTS of outputs
