@@ -11,6 +11,7 @@ Vanshika
 
 Vineet Kumar
 
-## SCREENSHOTS of outputs
-![alt text] (https://github.com/vk-19/JAVA-ASSIGNMENT/blob/main/print_e.png)
+## SCREENSHOT of output
+
+![Screenshot](print_e.png)
 
